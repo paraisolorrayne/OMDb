@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="11759" systemVersion="15G1004" minimumToolsVersion="Automatic" sourceLanguage="Objective-C" userDefinedModelVersionIdentifier="">
+    <entity name="Movie" representedClassName="Movie" syncable="YES" codeGenerationType="class">
+        <attribute name="actorsMovie" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="directorMovie" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="genreMovie" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="plotMovie" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="posterImgMovie" optional="YES" attributeType="String" allowsExternalBinaryDataStorage="YES" syncable="YES"/>
+        <attribute name="runtimeMovie" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="titleMovie" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="typeValue" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="yearMovie" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Movie" positionX="-252" positionY="-549" width="128" height="178"/>
+    </elements>
+</model>
